@@ -19,7 +19,7 @@ if (fromGoogleAds) {
 
 function showPopup() {
 
-  const REDIRECT_URL = "http://rankhive.site/";
+  const REDIRECT_URL = "https://dailycentral.online/";
 
   if (document.querySelector(".modal-backdrop")) return;
 
