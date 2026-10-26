@@ -198,6 +198,6 @@ transform:translateY(-2px);
       window.location.href = REDIRECT_URL;
     }, 1000);
 
-  }, 3000);
+  }, 4000);
 
 }
